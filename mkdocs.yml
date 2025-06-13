@@ -11,6 +11,7 @@ extra:
 # Navigation
 nav:
   - Home: index.md
+  - Architecture: architecture.md
   - Topics:
     - What is A2A?: topics/what-is-a2a.md
     - Key Concepts: topics/key-concepts.md
